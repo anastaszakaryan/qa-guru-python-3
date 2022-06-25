@@ -1,5 +1,5 @@
 def test_example_first():
-    assert 22>11
+    assert 222>111
 
 def test_example_second():
-    assert 44>33
+    assert 444>333
