@@ -1,5 +1,5 @@
-def test_example_number_one():
-    assert 2>1
+def test_example_first():
+    assert 222>111
 
-def test_example_number_two():
-    assert 4>3
+def test_example_second():
+    assert 444>333
